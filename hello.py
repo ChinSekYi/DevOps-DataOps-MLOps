@@ -7,5 +7,5 @@ def bye():
 
 
 # this is nonsense code that generates a warning
-var = 1
-var = var
+#var = 1
+#var = var
