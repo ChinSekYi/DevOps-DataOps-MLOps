@@ -8,3 +8,4 @@ Reference: https://github.com/noahgift/github-actions-pytest/tree/master
 Required files to set up for End-to-End ML workflow:
 - Makefile
 - requirements.txt
+- test.py
