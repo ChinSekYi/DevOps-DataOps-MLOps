@@ -3,3 +3,8 @@
 # DevOps-DataOps-MLOps
 An example of a GitHub Actions Project to show the testing of Python code  
 Reference: https://github.com/noahgift/github-actions-pytest/tree/master
+
+# Notes:
+Required files to set up for End-to-End ML workflow:
+- Makefile
+- requirements.txt
